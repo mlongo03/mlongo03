@@ -6,9 +6,9 @@ I'm Manuele Longo, a student of [42Roma Luiss](https://42roma.it/) the best prog
 You can find me on the intra as **mlongo**.    
 I come from a path in Electronics, i have experience in industrial automation and industrial also electrotechnics 
 but from when i met for the first time a programming language (Arduino) i immediately felt in love for coding.
-## Languages 👾
+## Languages Frameworks Technologies and Tools👾
 
-I have experience in the following programming languages & framework:
+I have experience in the following programming languages, Frameworks, Technologies and Tools:
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
