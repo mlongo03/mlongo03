@@ -29,9 +29,18 @@ I have experience in the following programming languages, Frameworks, Technologi
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=mlongo03&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mlongo03&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mlongo03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+	<table>
+		<tr>
+			<a href="https://github.com/mlongo03">
+				<img src="https://awesome-github-stats.azurewebsites.net/user-stats/mlongo03?cardType=level&theme=tokyonight" width="397" height="200">
+			</a> 
+			<a href="https://github.com/mlongo03?tab=repositories">
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlongo03&hide=swift,roff,perl&layout=compact&theme=tokyonight" width="380" height="200">
+			</a>
+		</tr>
+	</table>
+</div>
 
 ## In the future? 🏃🏼
 
