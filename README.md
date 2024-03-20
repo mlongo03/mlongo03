@@ -28,6 +28,11 @@ I have experience in the following programming languages, Frameworks, Technologi
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## GitHub stats
+![](https://github-readme-stats.vercel.app/api?username=mlongo03&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mlongo03&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mlongo03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## In the future? 🏃🏼
 
 I intend to finish the common core of 42 and graduate by the end of the year.
@@ -39,5 +44,3 @@ You can contact me via e-mail at **manuelelng03@gmail.com**
 Or by **social media**:
 
 [![Linkedin](https://img.shields.io/badge/-@manuelelongo-0072b1?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/manuele-longo-154979243/)](https://www.linkedin.com/in/manuele-longo-154979243/)
-
-
