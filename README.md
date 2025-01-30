@@ -2,7 +2,7 @@
 
 ## About me 🙋🏼‍♂️
 
-I'm Manuele Longo, a student of [42Roma Luiss](https://42roma.it/) the best programming school in the world, which is part of the [Ecolè42 Network](https://www.42network.org/).     
+I'm Manuele Longo, a Back-end Developer for an Italian Corporate (Leonardo), i have cocluded the common core at [42Roma Luiss](https://42roma.it/) the best programming school in the world, which is part of the [Ecolè42 Network](https://www.42network.org/) and now I am graduating for a Computer Science degree in a famous italian University (Sapienza).     
 You can find me on the intra as **mlongo**.    
 I come from a path in Electronics, i have experience in industrial automation and industrial also electrotechnics 
 but from when i met for the first time a programming language (Arduino) i immediately felt in love for coding.
@@ -45,9 +45,10 @@ I have experience in the following programming languages, Frameworks, Technologi
 
 ## In the future? 🏃🏼
 
-I intend to finish the common core of 42 and graduate by the end of the year.
-I'd like to start a journey as a developer, to increase my skill set and explore new worlds of coding!
-I would also like to deepen my knowledge of cybersecurity and Ai.
+I intend to graduate in Computer Science and make some 42 masteries.
+I'd also like to increase my skill set and knowlwdge of coding day by day 
+in order to create/contribute to amazing and inspiring projects.
+I would also like to deepen my knowledge in cybersecurity and Ai.
 ## Contact me 📩
 
 You can contact me via e-mail at **manuelelng03@gmail.com**      
