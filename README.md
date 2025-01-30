@@ -2,8 +2,10 @@
 
 ## About me 🙋🏼‍♂️
 
-I'm Manuele Longo, a Back-end Developer for an Italian Corporate (Leonardo), i have cocluded the common core at [42Roma Luiss](https://42roma.it/) the best programming school in the world, which is part of the [Ecolè42 Network](https://www.42network.org/) and now I am graduating for a Computer Science degree in a famous italian University (Sapienza).     
-You can find me on the intra as **mlongo**.    
+I'm Manuele Longo, I am actually a Back-end Developer for an Italian Corporate (Leonardo). 
+I have cocluded the common core at [42Roma Luiss](https://42roma.it/) the best programming school in the world, which is part of the [Ecolè42 Network](https://www.42network.org/)
+You can find me on the intra as **mlongo**.
+Now I am graduating for a Computer Science degree in a famous italian University (Sapienza).         
 I come from a path in Electronics, i have experience in industrial automation and industrial also electrotechnics 
 but from when i met for the first time a programming language (Arduino) i immediately felt in love for coding.
 ## Languages Frameworks Technologies and Tools👾
