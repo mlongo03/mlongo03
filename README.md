@@ -38,9 +38,6 @@ I have experience in the following programming languages, Frameworks, Technologi
 			<a href="https://github.com/mlongo03">
 				<img src="https://awesome-github-stats.azurewebsites.net/user-stats/mlongo03?cardType=level&theme=tokyonight" width="397" height="200">
 			</a> 
-			<a href="https://github.com/mlongo03?tab=repositories">
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlongo03&hide=swift,roff,perl&layout=compact&theme=tokyonight" width="380" height="200">
-			</a>
 		</tr>
 	</table>
 </div>
